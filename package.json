@@ -1,0 +1,27 @@
+{
+  "name": "texigo",
+  "version": "1.0.0",
+  "description": "TexiGo(Ride with TexiGO)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun-Rawat/TexiGo.git"
+  },
+  "keywords": [
+    "TexiGo"
+  ],
+  "author": "Arjun Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun-Rawat/TexiGo/issues"
+  },
+  "homepage": "https://github.com/Arjun-Rawat/TexiGo#readme",
+  "dependencies": {
+    "@angular/cli": "^10.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.23"
+  }
+}
